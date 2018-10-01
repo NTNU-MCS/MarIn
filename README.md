@@ -10,7 +10,7 @@ The full-version toolbox with turbulence wind box can be download at:
 **Zhengru Ren, Zhiyu Jiang, Roger Skjetne, Zhen Gao (2018). Development and application of a simulator for Offshore Wind Turbine Blades Installation. Ocean Engineering, 166:380-395**
 
 In future updates, more features will be included, e.g.
-* Mooring line, turret, riser;
+* Thruster-assisted position mooring system (mooring line, turret, riser);
 * Four types of offshore cranes;
 * Tube-shape payload;
 * Current profile generator, wind profile generator;
