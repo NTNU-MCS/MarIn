@@ -14,7 +14,7 @@ In future updates, more features will be included, e.g.
 * Four types of offshore cranes;
 * Tube-shape payload;
 * Current profile generator, wind profile generator;
-* etc
+* etc.
 
 If you need these functions right now, please contact with <renzhengru@gmail.com>.
 
