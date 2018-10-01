@@ -5,7 +5,7 @@ The full-version toolbox with turbulence wind box can be download at:
 <https://www.dropbox.com/s/g7jxpmyrmy0pkme/Marin_blade_v1_0.zip?dl=0>.
 
 
-**Please include the following reference when you use the MSS GNC toolbox:**
+**Please include the following reference when you use the MarIn toolbox:**
 
 **Zhengru Ren, Zhiyu Jiang, Roger Skjetne, Zhen Gao (2018). Development and application of a simulator for Offshore Wind Turbine Blades Installation. Ocean Engineering, 166:380-395**
 
@@ -17,7 +17,6 @@ In future updates, more features will be included, e.g.
 * etc
 
 If you need these functions right now, please contact with <renzhengru@gmail.com>.
-
 
 
 
